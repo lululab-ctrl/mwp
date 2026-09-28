@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs>
+<clipPath id="L"><rect width="400" height="600"/></clipPath>
+<clipPath id="R"><rect x="400" width="400" height="600"/></clipPath>
+<g id="scene">
+<rect width="800" height="600" fill="#cfd9df"/>
+<path d="M0 300 L140 170 L230 250 L340 130 L470 260 L560 190 L680 280 L800 220 V600 H0Z" fill="#9aa9b2"/>
+<path d="M0 380 C200 330 420 360 800 320 V600 H0Z" fill="#f3f5f6"/>
+<path d="M0 470 C260 430 520 460 800 430 V600 H0Z" fill="#ffffff"/>
+<g fill="#2d3a35"><path d="M190 420 L230 300 L270 420Z"/><path d="M200 380 L230 280 L260 380Z"/><rect x="224" y="420" width="12" height="26"/>
+<path d="M560 400 L592 300 L624 400Z"/><rect x="587" y="400" width="10" height="22"/></g>
+<g fill="#fff"><path d="M214 330 L230 300 L246 330 L236 322 L230 332 L222 322Z"/><path d="M578 340 L592 300 L606 340 L598 332 L592 342 L586 332Z"/></g>
+<path d="M60 520 C160 500 260 510 340 530" stroke="#dbe3e7" stroke-width="10" fill="none"/>
+</g>
+</defs>
+<g clip-path="url(#L)"><use href="#scene"/><rect width="800" height="600" fill="#3d6e9e" opacity=".42"/><rect width="800" height="600" fill="#1c2630" opacity=".18"/></g>
+<g clip-path="url(#R)"><use href="#scene"/><rect width="800" height="600" fill="#fff3e0" opacity=".08"/></g>
+<rect x="397" width="6" height="600" fill="#F4AF56"/>
+<circle cx="400" cy="300" r="30" fill="#0a2630" stroke="#F4AF56" stroke-width="5"/>
+<path d="M388 290 L378 300 L388 310 M412 290 L422 300 L412 310" stroke="#F4AF56" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

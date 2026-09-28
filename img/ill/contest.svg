@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<defs>
+<radialGradient id="bg" cx=".5" cy=".45" r=".7"><stop offset="0" stop-color="#16495a"/><stop offset="1" stop-color="#061c24"/></radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#bg)"/>
+<g fill="none" stroke="#F4AF56" stroke-width="6" stroke-linecap="round">
+<path d="M150 110 h-50 v50 M650 110 h50 v50 M150 490 h-50 v-50 M650 490 h50 v-50"/>
+</g>
+<g fill="#F4AF56" transform="translate(400 330) scale(1.25) translate(-400 -330)">
+<g id="leafL"><path d="M300 440 C250 400 230 330 250 250" fill="none" stroke="#F4AF56" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="262" cy="410" rx="11" ry="24" transform="rotate(-50 262 410)"/><ellipse cx="245" cy="370" rx="11" ry="24" transform="rotate(-30 245 370)"/><ellipse cx="238" cy="328" rx="11" ry="24" transform="rotate(-12 238 328)"/><ellipse cx="240" cy="286" rx="11" ry="23" transform="rotate(6 240 286)"/><ellipse cx="252" cy="250" rx="10" ry="21" transform="rotate(25 252 250)"/>
+<ellipse cx="290" cy="420" rx="10" ry="22" transform="rotate(-100 290 420)"/><ellipse cx="270" cy="384" rx="10" ry="22" transform="rotate(-80 270 384)"/><ellipse cx="262" cy="344" rx="10" ry="22" transform="rotate(-62 262 344)"/><ellipse cx="262" cy="302" rx="10" ry="21" transform="rotate(-45 262 302)"/></g>
+<use href="#leafL" transform="translate(800 0) scale(-1 1)"/>
+</g>
+<g transform="translate(400 290) scale(1.55)" fill="#EEEBE4">
+<path d="M0 10 C-20 -6 -60 -30 -130 -40 C-100 -20 -80 -8 -60 4 C-90 0 -120 6 -140 14 C-100 18 -60 22 -30 26 C-20 40 -10 56 0 70 C10 56 20 40 30 26 C60 22 100 18 140 14 C120 6 90 0 60 4 C80 -8 100 -20 130 -40 C60 -30 20 -6 0 10Z"/>
+<path d="M-8 -2 C-8 -26 8 -26 8 -2Z"/><path d="M8 -18 L22 -14 L8 -10Z" fill="#F4AF56"/>
+<path d="M-14 66 L0 90 L14 66Z"/>
+</g>
+<g transform="translate(400 462)" fill="#F4AF56"><circle r="16"/><path d="M-10 12 L-22 44 L0 34 L22 44 L10 12Z"/></g>
+</svg>
